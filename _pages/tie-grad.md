@@ -13,7 +13,7 @@ TIE GRAD is a global entrepreneurship program that helps enthusiasts develop ent
     </p>
 
    <div class="row activity">
-     <div class="col-md-8"> 
+     <!--<div class="col-md-8"> -->
       <div>
         <p><b><!--<a href="https://hacktoberfest.digitalocean.com/" target="_blank">-->Hack open source projects<!--</a>--></b></p>
     <p>Blind Spots are the areas around the vehicle that cannot be directly observed by the driver even though rear view and side mirrors are available and exactly placed. Sphasht, the proposed gadget augments a regular steering wheel as a smart steering wheel that would indicate the proximity of other adjacent vehicles in “no zones”  ( for 18 wheeler Trucks) and “blind spots” (for regular passenger four wheelers). </p>
@@ -30,7 +30,7 @@ TIE GRAD is a global entrepreneurship program that helps enthusiasts develop ent
   
 
    <div class="row activity">
-      <div class="col-md-8"> 
+     <!-- <div class="col-md-8"> -->
       <div>
         <p><b><!--<a href="https://megford.github.io/teach-gnome-newcomer/" target="_blank">-->Smart containers-Supplies monitoring system<!--</a>--></b></p>
 
