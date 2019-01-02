@@ -486,10 +486,6 @@ ul.nav-tabs {
 }
 
 .site-footer .logo a {
-    text-indent: 120%;
-    white-space: nowrap;
-    overflow: hidden;
-    display: inline-block;
     background-image: url(https://starksources.github.io/innovationhub/static/img/images.png);
     width: 100px;
     height: 80px;
