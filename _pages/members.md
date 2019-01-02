@@ -12,11 +12,11 @@
     <title>IEEE-SNIST</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://snistinnovationhub.github.io/static/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/round-about.css" rel="stylesheet">
-    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+    <link href="https://snistinnovationhub.github.io/static/css/simple-line-icons.css" rel="stylesheet" type="text/css">
      <link href="css/thumbnail-gallery.css" rel="stylesheet">
 
   </head>
@@ -290,8 +290,8 @@
 
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="https://snistinnovationhub.github.io/static/js/jquey.min.js"></script>
+    <script src="https://snistinnovationhub.github.io/static/js/bootstrap.bundle.min.js"></script>
 
   </body>
 
