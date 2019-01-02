@@ -1,124 +1,298 @@
----
-layout: page
-title:  "Members"
-permalink: /members/
-ref: about
----
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name='viewport' 
+     content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>IEEE-SNIST</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/round-about.css" rel="stylesheet">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+     <link href="css/thumbnail-gallery.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+     <nav class="navbar navbar-expand-lg navbar-dark bg-dark flexible-top">
+      <div class="container">
+        <a data-anijs="if: click, do: flipInY animated" class="animated infinite rubberBand navbar-brand" href="index.html">IEEE-SNIST</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <div class="dropdown show">
+              <a class="btn btn-secondary dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:black" onmouseover="this.style.color='white'" onmouseout="this.style.color='black'" >
+               About
+              </a>
+
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+            <a class="dropdown-item " href="ieee.html">IEEE</a>
+            <a class="dropdown-item" href="ieee%20-%20r10.html">IEEE R10</a>
+            <a class="dropdown-item " href="ieee%20-%20hyd.html">IEEE-Hyderabad</a>
+            <a class="dropdown-item" href="ieee%20-%20snist.html">IEEE-SNIST</a>
+          </div>
+        </div>
+           <div class="dropdown show">
+              <a class="btn btn-secondary dropdown-toggle"  id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:black" onmouseover="this.style.color='white'" onmouseout="this.style.color='black'">
+               Societies
+              </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="ieee-cs.html">IEEE CS</a>
+                <a class="dropdown-item" href="ieee-pes.html">IEEE PES</a>
+                <a class="dropdown-item" href="ieee-wie.html">IEEE WIE</a>
+              </div>
+            </div>
+            <li class="nav-item">
+              <a class="nav-link" href="join.html">Membership</a>
+            </li>
+            <div class="dropdown show dark active">
+              <a class="btn btn-secondary dropdown-toggle"  id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:black" onmouseover="this.style.color='white'" onmouseout="this.style.color='black'">
+               Excomm
+              </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="about.html">EXCOMM-2018</a>
+                <a class="dropdown-item" href="about2017.html">EXCOMM-2017</a>
+                
+              </div>
+            </div>
+            <li class="nav-item">
+              <a class="nav-link" href="projects.html">Activities</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="achievements.html">Achievements</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="gallery.html">Gallery</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <section class="light">
+    <div class="container">
+
+      <!-- Introduction Row -->
+      <h1 class="my-4 text-center">About Us<br>
+        <small>Excomm 2018-19</small>
+      </h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, explicabo dolores ipsam aliquam inventore corrupti eveniet quisquam quod totam laudantium repudiandae obcaecati ea consectetur debitis velit facere nisi expedita vel?</p>
+
+      <!-- Team Members Row -->
+      <div class="row">
+        <div class="col-lg-12">
+          <h2 class="my-4 text-center">Our Team</h2>
+        </div>
+        <div class="col-lg-3 col-sm-6 text-center mb-4">
+        <img class="img-fluid rounded-circle mb-3" src="profileimages/gaurav.jpg" style="width:200px;height:200px" alt="">
+          <h3>D.Sai Gaurav<br>
+            <small>Chairperson</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-3 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/shreyas.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Shreyas Cheemala<br>
+            <small>Vice-Chairperson</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-3 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/kranthi.jpeg" style="width:200px;height:200px" alt="">
+          <h3>V.Kranthi Sai Reddy<br>
+            <small>General Secretary</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-3 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/ritvik.jpeg" style="width:200px;height:200px" alt="">
+          <h3>P.Sai Ritvik<br>
+            <small>Treasurer</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-3 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/sreeprada.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Sreeprada<br>
+            <small>Doc and Content Executive</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-3 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/mohith.jpg" style="width:200px;height:200px" alt="">
+          <h3>Ch Durga Mohith <br>
+            <small>Public Relations</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-3 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/srujana.jpg" style="width:200px;height:200px" alt="">
+          <h3>Srujana Kowtha<br>
+            <small>Publicity Executive</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-3 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/ragha.JPG" style="width:200px;height:200px" alt="">
+          <h3>D.R.Raghavendra<br>
+            <small>Documentation Executive</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/rishi.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Rishi Bellamkonda<br>
+            <small>Marketing Executive</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/sanjana.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Sanjana Akula<br>
+            <small>Marketing Executive</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/ameya.jpg" style="width:200px;height:200px" alt="">
+          <h3>Ameya M<br>
+            <small>Designing Executive</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-12">
+          <h2 class="my-4 text-center">Our WIE Team</h2>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/jhanavi.jpeg" style="width:200px;height:200px" alt="">
+          <h3>V.Sai jahnavi<br>
+            <small>WIE Chairperson</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/nithya.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Nithya Vaishnavi<br>
+            <small>WIE General Secretary</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/samhitha.jpg" style="width:200px;height:200px" alt="">
+          <h3>Samhitha Suda<br>
+            <small>WIE Vice-Chairperson</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-12">
+          <h2 class="my-4 text-center">Our CS Team</h2>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/nishanth.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Nishanth Reddy M<br>
+            <small>CS Chairperson</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/charith.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Charith <br>
+            <small>CS General Secretary</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/bharath.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Bharath Sathuri<br>
+            <small>CS Vice-Chairperson</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-12">
+          <h2 class="my-4 text-center">Our PES Team</h2>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/achyuth.jpeg" style="width:200px;height:200px" alt="">
+          <h3>Achyuth M.S<br>
+            <small>PES Chairperson</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/kiran.jpg" style="width:200px;height:200px" alt="">
+          <h3>Y.V.S. Kiran <br>
+            <small>PES General Secretary</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="profileimages/govind.jpg" style="width:200px;height:200px" alt="">
+          <h3>Govind Vutukuri<br>
+            <small>PES Vice-Chairperson</small>
+          </h3>
+          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+        
+      </div>
+
+    </div>
+    </section>
+    <!-- /.container -->
+
+    <!-- Footer -->
+   <footer class="footer bg-dark">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+            
+            <p class="text-muted small mb-4 mb-lg-0">&copy; IEEE-SNIST-SB 2018. All Rights Reserved.</p>
+          </div>
+          <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item mr-2">
+                <a href="https://www.facebook.com/IeeeSnist/">
+                  <i class="fa fa-facebook fa-2x fa-fw"></i>
+                </a>
+              </li>
+              
+              <li class="list-inline-item">
+                <a href="https://www.instagram.com/ieeesnist/">
+                  <i class="fa fa-instagram fa-2x fa-fw"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
 
 
-## Campus Clubs Vision
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-<div class="row">
-  <div class="col-md-3">
-    <img src="/static/img/photo_clubs3.jpg" alt="Mozilla Clubs" class="img-responsive">
-  </div>
+  </body>
 
-  <div class="col-md-9">
-    <p>Imagine the highest quality university student programs you’ve ever heard of. Programs that <strong>incite invention, inspire innovation,</strong> and <strong>foster global change</strong>.</p>
-
-    <p>Now imagine a Mozilla program that engaged students all over the world, building campus groups that each have hundreds of passionate volunteers contributing to Mozilla as advocates, technologists, and innovators. Now imagine that these groups were on thousands of University campuses in hundreds of countries.</p>
-
-    <p>That is the vision for Campus Clubs. To spark a movement -- a loud voice, a breeding ground for new ideas, a massive force, a deep talent pool -- that powers the open web to new heights.</p>
-
-    <p>At the start of each year, Campus Clubs plan the impact they want to have for the open web and then hack and build on a combination of recommended activities and their own open source projects to make a difference for the web, their campuses and communities.
-</p>
-  </div>
-</div>
-
-## Roles in Campus Clubs
-
-<div class="row activities-table">
-  <div class="col-md-4">
-    <p><b>Regional Coordinators</b></p>
-
-    <p>Regional Coordinator are people with strong leadership skills and proven experience with mentoring, especially on campuses. They work closely with staff to mentor and support Club Captains. A Regional Coordinator is responsible for making sure the campus program is successfully running in their local region.</p>
-
-    <p>You can read the full Roles & Responsibilities of a Regional Coordinator <a href="https://docs.google.com/document/d/1GypBGnffjxfyX174g7fiLAcZF8tSKC5Xo7Qd4gpC5yM/pub">here</a>.</p>
-  </div>
-
-  <div class="col-md-4">
-    <p><b>Club Captains</b></p>
-
-    <p>Club Captains are people with a passion for technology, leadership skills and an entrepreneurial spirit. With their team the Club Captain launches, builds and runs their Campus’ Mozilla Club.  The Club Captain is responsible for making sure their Club is running successfully on their Campus.</p>
-
-    <p class="ul">Campus Clubs registered with Mozilla will be:</p>
-    <ul>
-      <li>listed on the website</li>
-      <li>have access to special training and skills building opportunities</li>
-      <li>have access to a broad group of talented experts/professionals</li>
-    </ul>
-   <p>
-Read the full Roles & Responsibilities of a Club Captain <a href="https://docs.google.com/document/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub">here</a>.</p>
-  </div>
-
-  <div class="col-md-4">
-    <p><b>Members</b></p>
-
-    <p>What’s a Club with no participants? Members are the heart of Campus Clubs, they attend meetings, participate in activities and grow their skills and connect with others through the Campus Clubs framework.</p>
-
-    <p>Looking to join a club? Find your campus on the map <a href="https://campus.mozilla.community/connect/">here</a>.</p>
-  </div>
-</div>
-
-{: .clear}
-&nbsp;
-
-
-## Why Mozilla
-
-<div class="row">
-  <div class="col-md-3">
-    <img src="/static/img/photo_clubs1.jpg" alt="Mozilla Clubs" class="img-responsive">
-  </div>
-
-  <div class="col-md-9">
-    <p>At Mozilla, we’re a global <strong>community</strong> of technologists, thinkers and builders <strong>working together</strong> to <strong>keep the Internet alive and accessible</strong>, so people worldwide can be informed contributors and creators of the Web.</p>
-
-    <p>Our <strong>mission</strong> is to ensure the Internet is a <strong>global public resource, open and accessible to all</strong>. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.</p>
-
-    <p>We believe that students are uniquely positioned to make a difference in the world and that by bringing together local groups who care about the internet we can achieve great things.</p>
-  </div>
-</div>
-
-## Why Mozilla Clubs
-
-<div class="row">
-  <div class="col-md-3">
-    <img src="/static/img/photo_clubs2.jpg" alt="Mozilla Clubs" class="img-responsive">
-  </div>
-
-  <div class="col-md-9">
-    <p>A Mozilla Club brings people together locally to build the open web on University and College campuses worldwide.</p>
-
-    <p>The Internet is more than computers and code. The Internet is about people. And this is what Mozilla Clubs are all about: interacting with others to share, learn, teach, protect and build upon platforms, to make things that matter. Our Clubs are human structures that make the web real.</p>
-
-    <p><b>Mozilla Campus Clubs</b> are <b>Mozilla Clubs</b> that take place at a University or College - These clubs take advantage of the unique learning environments of Universities and Colleges to bring students with a passion for technology together to build and innovate on open source projects that build the open web. </p>
-  </div>
-</div>
-
-
-
-## History of Mozilla on Campus
-
-<div class="row">
-  <div class="col-md-3">
-    <img src="/static/img/photo_clubs4.jpg" alt="Mozilla Clubs" class="img-responsive">
-  </div>
-
-  <div class="col-md-9">
-    <p>Long before Mozilla’s first formal student program, “Campus Reps”, opened its doors in 2008,  students have been playing a crucial role in the development of Mozilla and the web itself.</p>
-
-    <p>The student-built <a href="https://en.wikipedia.org/wiki/Lynx_%28web_browser%29" target="_blank">Lynx</a> browser was one of the first and <a href="https://en.wikipedia.org/wiki/Mosaic_%28web_browser%29" target="_blank">Mosaic</a> (Firefox’s distant ancestor!), pioneered by students and staff, opened the graphical web to millions. Many of the original community members who worked on the first firefox in 2002 were students just like you.</p>
-
-    <p>A lot has happened on Campuses since then:</p>
-
-    <ul>
-      <li>In 2012 the <a href="https://wiki.mozilla.org/StudentAmbassadors" target="_blank">Firefox Student Ambassador Program</a> opened it’s doors to bring together individuals with a passion for Mozilla who wanted to raise awareness about the many benefits of Firefox & other Mozilla products.</li>
-      <li>In 2013 the first <a href="https://www.youtube.com/watch?v=oko6TzPQE6Y" target="_blank">Maker Party</a> moved students all around the world to come together to teach the web.</li>
-      <li>In 2015 the <a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs" target="_blank">Clubs</a> program started with a mandate to engage people around the world in ongoing web literacy programs.</li>
-      <li>In 2015 Mozilla Science started offering <a href="https://science.mozilla.org/blog/introducing-mozilla-science-study-groups" target="_blank">Study Groups</a> for graduate students, researchers, and scientists looking to learn together.</li>
-      <li>In 2016 hundreds of students around the world led the <a href="https://takebacktheweb.mozilla.community/2016/07/11/seven-weeks-take-back-web/" target="_blank">Take Back the Web Campaign</a> on their campuses to shift attitudes and change behavior around privacy and security online.</li>
-      <li>In late 2016 Campus Clubs was created to carry the work of the Take Back The Web campaign forward but now with an even stronger focus on open source and engaging students in building open web technologies.</li>
-    </ul>
-  </div>
-</div>
+</html>
