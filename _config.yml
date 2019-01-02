@@ -3,10 +3,10 @@ title: Sreenidhi Hub
 email: 
 description: >
     Get involved with the Campus initiatives at Mozilla
-baseurl: "/innovationhub"
-url: "https://starksources.github.io/innovationhub"
-twitter_username: mozparticipate
-github_username:  mozilla
+baseurl: ""
+url: "https://snistinnovationhub.github.io/"
+twitter_username: snist
+github_username:  snistinnovationhub
 
 # Build settings
 markdown: kramdown
