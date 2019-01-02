@@ -1,0 +1,14 @@
+# Site dev settings
+title: Sreenidhi Hub
+email: participation@mozilla.com
+description: >
+    Get involved with the Campus initiatives at Mozilla
+baseurl: "/innovationhub"
+url: "https://starksources.github.io/innovationhub/" 
+twitter_username: mozparticipate
+github_username:  mozilla
+
+# Build settings
+markdown: kramdown
+
+include: ['_pages']
