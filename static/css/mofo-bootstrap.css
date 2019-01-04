@@ -53,23 +53,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
-body {
-  margin: 0; }
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block; }
 
 audio,
 canvas,
@@ -86,14 +69,6 @@ audio:not([controls]) {
 template {
   display: none; }
 
-a {
-  background-color: transparent; }
-
-a:active {
-  outline: 0; }
-
-a:hover {
-  outline: 0; }
 
 abbr[title] {
   border-bottom: 1px dotted; }
@@ -129,8 +104,7 @@ sup {
 sub {
   bottom: -0.25em; }
 
-img {
-  border: 0; }
+
 
 svg:not(:root) {
   overflow: hidden; }
@@ -257,8 +231,7 @@ th {
   h2,
   h3 {
     page-break-after: avoid; }
-  .navbar {
-    display: none; }
+ 
   .btn > .caret,
   .dropup > .btn > .caret {
     border-top-color: #000 !important; }
@@ -350,16 +323,6 @@ dd {
 blockquote {
   margin: 0 0 1rem; }
 
-a {
-  color: #0275d8;
-  text-decoration: none; }
-  a:focus, a:hover {
-    color: #014c8c;
-    text-decoration: underline; }
-  a:focus {
-    outline: thin dotted;
-    outline: 5px auto -webkit-focus-ring-color;
-    outline-offset: -2px; }
 
 pre {
   margin-top: 0;
@@ -2380,11 +2343,7 @@ input[type="button"].btn-block {
 .btn-link {
   border: 0; }
 
-.fade {
-  opacity: 0;
-  transition: opacity .15s linear; }
-  .fade.in {
-    opacity: 1; }
+
 
 .collapse {
   display: none; }
