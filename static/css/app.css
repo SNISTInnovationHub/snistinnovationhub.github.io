@@ -247,7 +247,7 @@ nav a:hover {
 }
 
 .jumbotron {
-    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('../img/photo_top.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('../img/cover pic.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
