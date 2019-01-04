@@ -118,6 +118,7 @@ background: linear-gradient(to right, #000056, #d1720c); /* W3C, IE 10+/ Edge, F
     padding: 0;
     border-radius: 0;
     height: 125px;
+    position: fixed;
 }
 
 nav.navbar a{
