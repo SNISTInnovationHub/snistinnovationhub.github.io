@@ -186,7 +186,7 @@ nav a:hover {
         position: absolute;
         right: 0;
         top: 70px;
-        width: 180px;
+        width: 200px;
         margin: 0;
         padding: 0;
         background: #d1720c;  /* fallback for old browsers */
@@ -195,7 +195,7 @@ nav a:hover {
          
   }
   nav #snistlogo{
-    height:90px;
+    height:110px;
     width:146px;
   }
     nav a.nav-link {
