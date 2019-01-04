@@ -22,8 +22,7 @@ ref: faq
         <div class="panel-group" id="accordion">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">I want to start a new Club in my College, what do I need to do?</a>
+                    <h4 class="panel-title">                        
                     </h4>
                 </div>
                 <div id="collapseOne" class="panel-collapse collapse in">
@@ -32,15 +31,14 @@ ref: faq
                         This 2018, we are implementing a seasonal application for the clubs. It will happen in the months of February, June-July, and Sept-October.
                         </p>
                         <p>
-                        You can apply to start a club in your Campus by checking the <a href="https://campus.mozilla.community/get-started/" target="_blank">Get Started</a> page. As the Club Captain you have to fill the application form and it is highly advisable to have three executives who will help you to initialize/sustain the Club, identify the Club’s focus areas and help plan the future activities.
+                        You can apply to start a club in your Campus by checking the page. As the Club Captain you have to fill the application form and it is highly advisable to have three executives who will help you to initialize/sustain the Club, identify the Club’s focus areas and help plan the future activities.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">I heard that Mozilla Clubs are shutting down. How does it affect Mozilla Campus Clubs?</a>
+                    <h4 class="panel-title">                        
                     </h4>
                 </div>
                 <div id="collapseTwo" class="panel-collapse collapse">
@@ -52,7 +50,7 @@ ref: faq
                         Campus Clubs exist on University campuses with a focus on technology and Open Source and engage only students from the campus. Whereas, the Mozilla Clubs existed outside campuses with a focus on reading, writing, and participating on the web.
                         </p>
                         <p>
-                        Mozilla Foundation recently announced ending its support of Mozilla Clubs (non-Campus). You can find the announcement with more information in this <a href="https://forum.learning.mozilla.org/t/important-mozilla-clubs-announcement/1897/6" title="Mozilla Clubs announcement" target="_blank">link</a>.
+                        Mozilla Foundation recently announced ending its support of Mozilla Clubs (non-Campus). You can find the announcement with more information in this
                         </p>
                         <p>
                         This announcement does not affect any Mozilla Campus Clubs.
@@ -62,8 +60,7 @@ ref: faq
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">I filled the registration form, what’s next?</a>
+                    <h4 class="panel-title">                        
                     </h4>
                 </div>
                 <div id="collapseThree" class="panel-collapse collapse">
@@ -83,16 +80,14 @@ ref: faq
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">How can I connect with a Community Expert?</a>
+                    <h4 class="panel-title">                    
                     </h4>
                 </div>
                 <div id="collapseFour" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        A Community Expert will help you establish an awesome club by providing you guidance, support and help you set your Club’s goals for the rest of the year.
-                        In the Resources page in the website you can find all the relevant information on how to setup and successfully run your club.
-                        Going through the available Resources will help you have a faster, meaningful, productive and more fun on-boarding process.
+                        A Community Expert will help you establish an awesome club by providing you guidance, support and help you set your Club’s goals for the rest of the year. In the Resources page in the website you can find all the relevant information on how to setup and successfully run your club.
+ Going through the available Resources will help you have a faster, meaningful, productive and more fun on-boarding process.
                         After you successfully complete the onboarding process you will receive an email with instructions on how to connect with the Community Experts.
                         </p>
                     </div>
@@ -100,36 +95,33 @@ ref: faq
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">When is my Club officially recognized as a Mozilla Campus Club?</a>
+                    <h4 class="panel-title">                       
                     </h4>
                 </div>
                 <div id="collapseFive" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        In order for a Club to be recognized as an official Mozilla Campus Club, the Club Captain should meet the requirements listed in the <a href="https://docs.google.com/document/u/1/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub" target="_blank">role description document</a></li> and the Club must demonstrate three months of regular activity, by running activities and submitting reports on a regular basis.
+                        In order for a Club to be recognized as an official Mozilla Campus Club, the Club Captain should meet the requirements listed in the </li> and the Club must demonstrate three months of regular activity, by running activities and submitting reports on a regular basis.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">What type of activities should a Club should carry out?</a>
+                    <h4 class="panel-title">            
                     </h4>
                 </div>
                 <div id="collapseSix" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        You can run any of the activities listed <a href="https://campus.mozilla.community/activities/" target="_blank">here</a>. Each activity is designed and tailored to our program’s goal which is to help students get more skills in an effort of contributing to open source projects.
+                        You can run any of the activities listed . Each activity is designed and tailored to our program’s goal which is to help students get more skills in an effort of contributing to open source projects.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">How can I request swag or budget for an event?</a>
+                    <h4 class="panel-title">                       
                     </h4>
                 </div>
                 <div id="collapseSeven" class="panel-collapse collapse">
@@ -139,15 +131,14 @@ ref: faq
                         Budget and swag are not available through the Mozilla Campus Clubs program yet since we are still exploring how Clubs can use them as a tool for advancing our mission in an effort of contributing back to Open Source projects.
                         </p>
                         <p>
-                        You may get in touch with a <a href="https://reps.mozilla.org/people" target="_blank">Mozilla Rep</a> near you to assist you with resources.
+                        You may get in touch with a  near you to assist you with resources.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">Can we have multiple clubs per campus?</a>
+                    <h4 class="panel-title">                        
                     </h4>
                 </div>
                 <div id="collapseEight" class="panel-collapse collapse">
@@ -160,8 +151,7 @@ ref: faq
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine">Some groups would rather exist only virtually, is this possible?</a>
+                    <h4 class="panel-title">                        
                     </h4>
                 </div>
                 <div id="collapseNine" class="panel-collapse collapse">
@@ -174,8 +164,7 @@ ref: faq
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen">What is the relation between the Campus Advisory Committee (CAC) and Community Experts?</a>
+                    <h4 class="panel-title">                        
                     </h4>
                 </div>
                 <div id="collapseTen" class="panel-collapse collapse">
