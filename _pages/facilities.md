@@ -64,7 +64,7 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">I filled the registration form, what’s next?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Partnership with IBM</a>
                     </h4>
                 </div>
                 <div id="collapseThree" class="panel-collapse collapse">
@@ -85,7 +85,7 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">How can I connect with a Community Expert?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">Partnership with Wadhvani Foundation</a>
                     </h4>
                 </div>
                 <div id="collapseFour" class="panel-collapse collapse">
