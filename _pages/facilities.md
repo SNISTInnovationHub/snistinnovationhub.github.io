@@ -16,6 +16,9 @@ ref: faq
         font-weight: normal;
         text-decoration: italic;
     }
+    .row{
+	width:100%;
+	}
 </style>
 <div class="row" id="faq">
 	<div class="bs-example">
