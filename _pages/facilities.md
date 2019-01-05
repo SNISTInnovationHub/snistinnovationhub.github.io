@@ -165,7 +165,7 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine">Some groups would rather exist only virtually, is this possible?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine">Sreenidhi Institute of Science and Technology has started Sreenidhi Hub Innovation Centre in our College at Central Library</a>
                     </h4>
                 </div>
                 <div id="collapseNine" class="panel-collapse collapse">
