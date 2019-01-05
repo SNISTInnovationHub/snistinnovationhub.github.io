@@ -172,20 +172,7 @@ ref: faq
                     </div>
                 </div>
             </div>
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen">What is the relation between the Campus Advisory Committee (CAC) and Community Experts?</a>
-                    </h4>
-                </div>
-                <div id="collapseTen" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p>
-                        CAC members are supporting and enabling Community Experts for better supporting Campus Clubs in their regions.
-                        </p>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
 </div>
