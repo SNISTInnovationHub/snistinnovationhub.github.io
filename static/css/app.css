@@ -733,3 +733,7 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+
+.img-fluid{max-width:100%;height:auto}
+.rounded-circle{border-radius:50%!important}
+
