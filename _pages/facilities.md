@@ -6,11 +6,10 @@ ref: faq
 ---
 <style type="text/css">
     #faq .panel-title {
-        text-align: center !important;
+        text-align: left !important;
         color: #fff !important;
         padding: 10px;
-	width: 118%;
-        background: linear-gradient(to right, #000056, #d1720c);
+        background: #000056;
     }
     #faq .panel-title a {
         color: #fff !important;
