@@ -9,7 +9,7 @@ ref: faq
         text-align: center !important;
         color: #fff !important;
         padding: 10px;
-	width: 80%;
+	width: 118%;
         background: linear-gradient(to right, #000056, #d1720c);
     }
     #faq .panel-title a {
