@@ -12,10 +12,6 @@
 .sheetsee  ul li {padding-bottom: 6px; line-height: 22px;}
 
 
-*{
-  overflow-x:hidden;
-}
-
 img[alt=sheetseeimg] {
   width: 400px;
 }
