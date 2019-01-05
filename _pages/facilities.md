@@ -23,16 +23,16 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">I want to start a new Club in my College, what do I need to do?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Thinkers Lab</a>
                     </h4>
                 </div>
                 <div id="collapseOne" class="panel-collapse collapse in">
                     <div class="panel-body">
-                        <p>
+                      <!--  <p>
                         This 2018, we are implementing a seasonal application for the clubs. It will happen in the months of February, June-July, and Sept-October.
-                        </p>
+                        </p>-->
                         <p>
-                        You can apply to start a club in your Campus by checking the <a href="https://campus.mozilla.community/get-started/" target="_blank">Get Started</a> page. As the Club Captain you have to fill the application form and it is highly advisable to have three executives who will help you to initialize/sustain the Club, identify the Club’s focus areas and help plan the future activities.
+                        will be updated soon.!!
                         </p>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">I heard that Mozilla Clubs are shutting down. How does it affect Mozilla Campus Clubs?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">Conference Room</a>
                     </h4>
                 </div>
                 <div id="collapseTwo" class="panel-collapse collapse">
@@ -51,9 +51,10 @@ ref: faq
                         <p>
                         Campus Clubs exist on University campuses with a focus on technology and Open Source and engage only students from the campus. Whereas, the Mozilla Clubs existed outside campuses with a focus on reading, writing, and participating on the web.
                         </p>
-                        <p>
+                       <!-- <p>
                         Mozilla Foundation recently announced ending its support of Mozilla Clubs (non-Campus). You can find the announcement with more information in this <a href="https://forum.learning.mozilla.org/t/important-mozilla-clubs-announcement/1897/6" title="Mozilla Clubs announcement" target="_blank">link</a>.
                         </p>
+-->
                         <p>
                         This announcement does not affect any Mozilla Campus Clubs.
                         </p>
