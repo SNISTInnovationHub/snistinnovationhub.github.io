@@ -16,6 +16,10 @@ img[alt=sheetseeimg] {
   width: 400px;
 }
 
+*{
+  overflow-x:hidden;
+}
+
 .index p:first-of-type {
   text-align: center;
 }
