@@ -36,7 +36,7 @@ footer{
  margin:0;
 }
 
-.sheetsee body {font-family: 'Source Sans Pro'; background: #fff; color: #535353;  border: 10px #47CCFC solid; margin: 0px; padding: 20px 20px 100px 20px; overflow: auto; }
+.sheetsee body {font-family: 'Merriweather'; background: #fff; color: #535353;  border: 10px #47CCFC solid; margin: 0px; padding: 20px 20px 100px 20px; overflow: auto; }
 .sheetsee h1, h2, h3, h4, h5, h6 {font-family: Source Sans Pro, Arial, sans-serif;}
 .sheetsee h2 {margin-top: 40px;}
 
